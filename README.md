@@ -5,7 +5,7 @@ Implementing deep learning algorithms in python with numpy.
 
 ### Logistic Regression
 
-#### Implementation -> [logistic_regression.ipynb](logistic_regression.ipynb)
+#### Implementation -> [logistic-regression.ipynb](logistic-regression.ipynb)
 
 #### Architecture
   * Relu in hidden layers and sigmoid in the output layer.
