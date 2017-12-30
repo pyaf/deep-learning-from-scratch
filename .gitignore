@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Categorical*
 *pkl.gz
 # C extensions
 *.so
